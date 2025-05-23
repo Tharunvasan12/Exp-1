@@ -16,24 +16,16 @@ To draw UML diagram for ATM and banking system
 6)SEQUENCE: A sequence diagram models the interaction between objects in a time-ordered sequence, showing how messages are sent and received to carry out a specific functionality or use case.
 # DIAGRAMS:
 1.USE CASE DIAGRAM
-
 ![use case-1](https://github.com/user-attachments/assets/407ae72f-4c1a-484e-abe8-d592e30e4f7c)
-
 2.CLASS DIAGRAM
 ![image](https://github.com/user-attachments/assets/bce047cc-7341-42e9-9dd6-5e311681ce46)
-
 3.ACTIVITY DIAGRAM
 ![image](https://github.com/user-attachments/assets/6c6965f5-f0cf-4ff4-9bdf-df121247486c)
-
 4.COMMUNICATION DIAGRAM
 ![image](https://github.com/user-attachments/assets/ceef3da2-8c11-48b5-a338-69b70a276b83)
-
 5.PACKAGE DIAGRAM
 ![image](https://github.com/user-attachments/assets/aa292bec-7e23-4330-bf66-4e1f3229e748)
-
 6.SEQUENCE DIAGRAM
 ![image](https://github.com/user-attachments/assets/b74ff423-078a-4a71-863d-e9fee68beb99)
-
-
 # RESULT:
 Thus the UML diagram for ATM and banking system .
